@@ -11,17 +11,31 @@ checkra1n dump and poc for iOS
 - iPhone 5s (s5l8960x): iOS 12(.5.5)  
 - iPhone 6 (t7000): iOS 12(.5.5)  
 - iPhone 6s (s8000): iOS 14(.2)  
-- iPhone 7 (t8010): iOS 14(.8.1)  
-- iPhone 8 (t8015): iOS 13(.5)  
+- iPhone 7 (t8010): iOS 13(.3) 
+- iPhone 7 (t8010): iOS 14(.8.1)   
+- iPhone 8 (t8015): iOS 13(.5) 
+- iPad 7 (t8010) : iOS14 (.8)
 
 
 ### ホスト側のデバイス (このソフトウェアを実行する側)  
 - iPhone 5s (iOS 12.5.1)  
     - 動作確認済 (lightning to USB camera adapter 経由)  
 
+- iPhone Xs (iOS 14.4.2)  
+    - 動作確認済 (lightning to USB camera adapter 経由)
+    
+- iPhone 6s (iOS 14.8)  
+    - 動作確認済 (lightning to USB camera adapter 経由)
+    
 - iPhone 8 (iOS 13.5)  
     - 動作確認済 (lightning to USB camera adapter 経由)  
 
+- iPhone 8 (iOS 13.7)  
+    - 動作確認済 (lightning to USB camera adapter 経由) 
+    
+- iPad 7 (iOS 14.0)  
+    - 動作確認済 (lightning to USB camera adapter 経由)   
+    
 - iPhone 5 (iOS 9.x, 10.x)  
     - 動作確認済 (lightning to USB camera adapter + 電源供給)  
 
